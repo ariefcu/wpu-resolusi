@@ -1,6 +1,6 @@
 wpu resolusi :
 - bikin A
 - bikin B
-- bikin C
 - bikin D
 - bikin E
+- bikin F
